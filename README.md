@@ -1,2 +1,1 @@
-# customer-data-app
-# customer-data-app-using-embedded-h2DB
+# customer-data-app-using-embedded-h2DB with Spring Boot
